@@ -1,0 +1,7 @@
+To compile software on a Linux system:
+	gcc -o <output executable name> <source>.c -lgsl -lgslcblas -lm 
+
+The GNU Scientific Library must be installed on the system.
+
+"upper_lower.c" implements two-sided truncated distribution
+"lower.c" implements one-sided trancation
