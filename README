@@ -1,3 +1,7 @@
+This software accompanies and is fully described in the paper:
+	"Samurai Survival Statistics: A Monte-Carlo Approach to Game-Theoretical Sudden Death Interactions" 
+available online here: https://www.preprints.org/manuscript/202211.0419/v1
+
 To compile software on a Linux system:
 	gcc -o <output executable name> <source>.c -lgsl -lgslcblas -lm 
 
